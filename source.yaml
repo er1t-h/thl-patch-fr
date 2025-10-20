@@ -1,5 +1,6 @@
 versions:
   - name: "v0.0.0"
+    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.2.0/v0.0.0-to-v0.2.0.tar.xz"
     determinants:
       - file: "gamedata/app_steam_text01.dx11.mvgl"
         sha256: "0f3458f1e39334961eabd20d3a40bac9bfc61797f4c843efb6406d5d53455365"
@@ -13,7 +14,7 @@ versions:
         sha256: "65caba565759a2d51a43972d8c9c9ff0ee4768f3a8a8ee465c03eb092ef9f137"
 
   - name: "v0.2.0"
-    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.2.0/v0.0.0-to-v0.2.0.zip"
+    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.3.0/v0.2.0-to-v0.3.0.tar.xz"
     determinants:
       - file: "gamedata/app_steam_text01.dx11.mvgl"
         sha256: "60687aa1c10fa565a7b9d8a9f404839c51b7fd2ffd0e18ec1f1987beb988b370"
@@ -27,7 +28,7 @@ versions:
         sha256: "e9f339cc50768363395bcb1a6d24e94a158feb7fdb0c4a37067fc7ea75cd0afd"
 
   - name: "v0.3.0"
-    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.3.0/v0.2.0-to-v0.3.0.zip"
+    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.3.1/v0.3.0-to-v0.3.1.tar.xz"
     determinants:
       - file: "gamedata/app_steam_text01.dx11.mvgl"
         sha256: "60687aa1c10fa565a7b9d8a9f404839c51b7fd2ffd0e18ec1f1987beb988b370"
@@ -41,7 +42,7 @@ versions:
         sha256: "9f4c4d028c7f122e923254dbbc2c67e6a0f12c9d235570e870622bc5586ec4f9"
 
   - name: "v0.3.1"
-    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.3.1/v0.3.0-to-v0.3.1.zip"
+    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.4.0/v0.3.1-to-v0.4.0.tar.xz"
     determinants:
       - file: "gamedata/app_steam_text01.dx11.mvgl"
         sha256: "60687aa1c10fa565a7b9d8a9f404839c51b7fd2ffd0e18ec1f1987beb988b370"
@@ -55,7 +56,7 @@ versions:
         sha256: "bd9623e1eef77f56e12b3357b504aa18fec822f3a65c7a6decd4de7f5c2fdaf4"
 
   - name: "v0.4.0"
-    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.4.0/v0.3.1-to-v0.4.0.zip"
+    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.5.0/v0.4.0-to-v0.5.0.tar.xz"
     determinants:
       - file: "gamedata/app_steam_text01.dx11.mvgl"
         sha256: "60687aa1c10fa565a7b9d8a9f404839c51b7fd2ffd0e18ec1f1987beb988b370"
@@ -69,7 +70,7 @@ versions:
         sha256: "0876d3ea65f62cbd125d452b6a6554091cfe4b5c9fc2167687d947d2e3a3242a"
 
   - name: "v0.5.0"
-    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.5.0/v0.4.0-to-v0.5.0.zip"
+    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.6.0/v0.5.0-to-v0.6.0.tar.xz"
     determinants:
       - file: "gamedata/app_steam_text01.dx11.mvgl"
         sha256: "60687aa1c10fa565a7b9d8a9f404839c51b7fd2ffd0e18ec1f1987beb988b370"
@@ -83,7 +84,7 @@ versions:
         sha256: "8e6336d7ea198b9c4ad976e195039de53f6573f8084f41d302ac8672caa17a96"
 
   - name: "v0.6.0"
-    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.6.0/v0.5.0-to-v0.6.0.zip"
+    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.6.1/v0.6.0-to-v0.6.1.tar.xz"
     determinants:
       - file: "gamedata/app_steam_text01.dx11.mvgl"
         sha256: "60687aa1c10fa565a7b9d8a9f404839c51b7fd2ffd0e18ec1f1987beb988b370"
@@ -97,7 +98,6 @@ versions:
         sha256: "70f43064459fbf0806dfdd3880ec8731ddfb15d8c93810bd1d4419cdf1ed4e53"
 
   - name: "v0.6.1"
-    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.6.1/v0.6.0-to-v0.6.1.zip"
     determinants:
       - file: "gamedata/app_steam_text01.dx11.mvgl"
         sha256: "60687aa1c10fa565a7b9d8a9f404839c51b7fd2ffd0e18ec1f1987beb988b370"
