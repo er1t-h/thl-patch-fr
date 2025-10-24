@@ -1,0 +1,15 @@
+versions:
+  - name: "v0.0.0"
+    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/demo-v0.1.1/demo-v0.0.0-to-v0.1.1.tar.xz"
+    determinants:
+      - file: gamedata/app_1.dx11.mvgl
+        sha256: f09eb9f4aa1139cc9e04c8193f41adf2be4b31f3c779a85d217b2725732650e7
+      - file: gamedata/app_text01.dx11.mvgl
+        sha256: 12fd8f4ba62faf9ee53904333e90d46c30c620eaa3ccb1f17f72a50197ff7d05
+
+  - name: "v0.1.1"
+    determinants:
+      - file: gamedata/app_1.dx11.mvgl
+        sha256: 1fdf6aedec4911b1010734c457ef492c377076dd3376e48fe45c57becc2ed173
+      - file: gamedata/app_text01.dx11.mvgl
+        sha256: 2a83716c89fd1355acf02b11af563f3abe959e9d6cdb195ffaceffc796609198
