@@ -112,16 +112,32 @@ versions:
         sha256: "870f3630b74c549e32483c86f1b90b473e50a71dba7958ce9c4b4aa7fa25093e"
 
   - name: "v0.7.0"
+    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.8.0/v0.7.0-to-v0.8.0.tar.xz"
+    determinants:
+      - file: gamedata/app_steam_1.dx11.mvgl
+        sha256: "a8d1fc85e60fa9e12ad4dd45e05678bf5ce5e862f95b689def66d547866b6b64"
+      - file: gamedata/app_steam_text01.dx11.mvgl
+        sha256: "60687aa1c10fa565a7b9d8a9f404839c51b7fd2ffd0e18ec1f1987beb988b370"
+      - file: gamedata/app_text01.dx11.mvgl
+        sha256: "f76f3c4abc1e2fb3e08ab3c6aac8df0c8e1bebead39603b20836ffbafcbcdb5b"
+      - file: gamedata/patch_1.dx11.mvgl
+        sha256: "71ebf6d7fda656b420c5c6a6601a3ac5096e0867bd0957be591c6bd10ea4a7b2"
+      - file: gamedata/patch_steam_text01.dx11.mvgl
+        sha256: "01b61c5b7fb316af43b5dd334ce8e999ab8d797b9d8d5d96bbea307272abf9c6"
+      - file: gamedata/patch_text01.dx11.mvgl
+        sha256: "42d475ca3cb064982f4c1bb2f6699228bfc58ae14b04b48edc8a0b6b392cc7f5"
+
+  - name: "v0.8.0"
     determinants:
       - file: gamedata/app_steam_1.dx11.mvgl
         sha256: a8d1fc85e60fa9e12ad4dd45e05678bf5ce5e862f95b689def66d547866b6b64
       - file: gamedata/app_steam_text01.dx11.mvgl
         sha256: 60687aa1c10fa565a7b9d8a9f404839c51b7fd2ffd0e18ec1f1987beb988b370
       - file: gamedata/app_text01.dx11.mvgl
-        sha256: f76f3c4abc1e2fb3e08ab3c6aac8df0c8e1bebead39603b20836ffbafcbcdb5b
+        sha256: fcbb56e1a8b52cdd271943509c1a3ed86bbcd4f9fe9a9088f15413a48ac9da75
       - file: gamedata/patch_1.dx11.mvgl
-        sha256: 71ebf6d7fda656b420c5c6a6601a3ac5096e0867bd0957be591c6bd10ea4a7b2
+        sha256: 20c92217da6b3988c5df96b5a54d751c741659a54410194fab46fbce2bc9fbcc
       - file: gamedata/patch_steam_text01.dx11.mvgl
         sha256: 01b61c5b7fb316af43b5dd334ce8e999ab8d797b9d8d5d96bbea307272abf9c6
       - file: gamedata/patch_text01.dx11.mvgl
-        sha256: 42d475ca3cb064982f4c1bb2f6699228bfc58ae14b04b48edc8a0b6b392cc7f5
+        sha256: 296774ab1f2e871835cd02c2bb4de01cb699fcda21d26413e687163a01c3308e
