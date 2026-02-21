@@ -1,0 +1,120 @@
+versions:
+  - name: "v0.0.0"
+    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.2.0/v0.0.0-to-v0.2.0.tar.xz"
+    determinants:
+      - file: "gamedata/app_text01.dx11.mvgl"
+        sha256: "34713a3f12515075c253c1dd78b8a14b1c5b74dc1c5e9b5c07ad5746cdaab658"
+      - file: "gamedata/patch_1.dx11.mvgl"
+        sha256: "7ab65051c90d4b68276a3ce8447d00c644737e4a490ef961ab038ee126ce1100"
+      - file: "gamedata/patch_text01.dx11.mvgl"
+        sha256: "65caba565759a2d51a43972d8c9c9ff0ee4768f3a8a8ee465c03eb092ef9f137"
+
+  - name: "v0.2.0"
+    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.3.0/v0.2.0-to-v0.3.0.tar.xz"
+    determinants:
+      - file: "gamedata/app_text01.dx11.mvgl"
+        sha256: "c2a994c788fd5a79b820b0e396fa53011e3f56172a78f88be00bde412c8b4ccc"
+      - file: "gamedata/patch_1.dx11.mvgl"
+        sha256: "78af505029b5a7e20b25f48364a51e5c78afb9b7e59e1ccf7b519f219ed5229c"
+      - file: "gamedata/patch_text01.dx11.mvgl"
+        sha256: "e9f339cc50768363395bcb1a6d24e94a158feb7fdb0c4a37067fc7ea75cd0afd"
+
+  - name: "v0.3.0"
+    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.3.1/v0.3.0-to-v0.3.1.tar.xz"
+    determinants:
+      - file: "gamedata/app_text01.dx11.mvgl"
+        sha256: "82cfe4607d3ec5692797960d031dc4a3d05b26ed66f5968c82c256748a443e49"
+      - file: "gamedata/patch_1.dx11.mvgl"
+        sha256: "cbdd9909c01afaa458ba348fe3f4f322a14d6bda771b8ddaa73d8750035daf58"
+      - file: "gamedata/patch_text01.dx11.mvgl"
+        sha256: "9f4c4d028c7f122e923254dbbc2c67e6a0f12c9d235570e870622bc5586ec4f9"
+
+  - name: "v0.3.1"
+    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.4.0/v0.3.1-to-v0.4.0.tar.xz"
+    determinants:
+      - file: "gamedata/app_text01.dx11.mvgl"
+        sha256: "46f5dc8e606587bd2572407fe053ce40d8b2a7f552e92dd993aca722a6ec4c97"
+      - file: "gamedata/patch_1.dx11.mvgl"
+        sha256: "cbdd9909c01afaa458ba348fe3f4f322a14d6bda771b8ddaa73d8750035daf58"
+      - file: "gamedata/patch_text01.dx11.mvgl"
+        sha256: "bd9623e1eef77f56e12b3357b504aa18fec822f3a65c7a6decd4de7f5c2fdaf4"
+
+  - name: "v0.4.0"
+    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.5.0/v0.4.0-to-v0.5.0.tar.xz"
+    determinants:
+      - file: "gamedata/app_text01.dx11.mvgl"
+        sha256: "f934958325870fe9b40d1fbb803292ac7044032d15159686ea3c19b85964df7b"
+      - file: "gamedata/patch_1.dx11.mvgl"
+        sha256: "2339926f3f125e83c2fc0f8effff5c66de1c2859cc246a7a68b8154474bf00ee"
+      - file: "gamedata/patch_text01.dx11.mvgl"
+        sha256: "0876d3ea65f62cbd125d452b6a6554091cfe4b5c9fc2167687d947d2e3a3242a"
+
+  - name: "v0.5.0"
+    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.6.0/v0.5.0-to-v0.6.0.tar.xz"
+    determinants:
+      - file: "gamedata/app_text01.dx11.mvgl"
+        sha256: "885934a4eca778e944a2bac76dbc887148d68bb46811db267be28e980560c66d"
+      - file: "gamedata/patch_1.dx11.mvgl"
+        sha256: "d29a81e91f21b1cd4cb20bb95bfccbbb5c67457f559e63fc05fa194428339418"
+      - file: "gamedata/patch_text01.dx11.mvgl"
+        sha256: "8e6336d7ea198b9c4ad976e195039de53f6573f8084f41d302ac8672caa17a96"
+
+  - name: "v0.6.0"
+    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.6.1/v0.6.0-to-v0.6.1.tar.xz"
+    determinants:
+      - file: "gamedata/app_text01.dx11.mvgl"
+        sha256: "2f8265b08a7ae1cbb2a3c154312c54a1a03f642db45f36771bb220c0a469ceb4"
+      - file: "gamedata/patch_1.dx11.mvgl"
+        sha256: "6f885ce94e75022149d3668a91dafbc96798f44b75e2f934eead4483ae17bdf1"
+      - file: "gamedata/patch_text01.dx11.mvgl"
+        sha256: "70f43064459fbf0806dfdd3880ec8731ddfb15d8c93810bd1d4419cdf1ed4e53"
+
+  - name: "v0.6.1"
+    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.7.0/v0.6.1-to-v0.7.0.tar.xz"
+    determinants:
+      - file: "gamedata/app_text01.dx11.mvgl"
+        sha256: "b8de5ce79d84b9168468721793d549c58bbcc493ed5f02271d296a4151ff0321"
+      - file: "gamedata/patch_1.dx11.mvgl"
+        sha256: "6f885ce94e75022149d3668a91dafbc96798f44b75e2f934eead4483ae17bdf1"
+      - file: "gamedata/patch_text01.dx11.mvgl"
+        sha256: "870f3630b74c549e32483c86f1b90b473e50a71dba7958ce9c4b4aa7fa25093e"
+
+  - name: "v0.7.0"
+    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.8.0/v0.7.0-to-v0.8.0.tar.xz"
+    determinants:
+      - file: gamedata/app_text01.dx11.mvgl
+        sha256: "f76f3c4abc1e2fb3e08ab3c6aac8df0c8e1bebead39603b20836ffbafcbcdb5b"
+      - file: gamedata/patch_1.dx11.mvgl
+        sha256: "71ebf6d7fda656b420c5c6a6601a3ac5096e0867bd0957be591c6bd10ea4a7b2"
+      - file: gamedata/patch_text01.dx11.mvgl
+        sha256: "42d475ca3cb064982f4c1bb2f6699228bfc58ae14b04b48edc8a0b6b392cc7f5"
+
+  - name: "v0.8.0"
+    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.9.0/v0.8.0-to-v0.9.0.tar.xz"
+    determinants:
+      - file: gamedata/app_text01.dx11.mvgl
+        sha256: fcbb56e1a8b52cdd271943509c1a3ed86bbcd4f9fe9a9088f15413a48ac9da75
+      - file: gamedata/patch_1.dx11.mvgl
+        sha256: 20c92217da6b3988c5df96b5a54d751c741659a54410194fab46fbce2bc9fbcc
+      - file: gamedata/patch_text01.dx11.mvgl
+        sha256: 296774ab1f2e871835cd02c2bb4de01cb699fcda21d26413e687163a01c3308e
+
+  - name: "v0.9.0"
+    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.10.0/v0.9.0-to-v0.10.0.tar.xz"
+    determinants:
+      - file: gamedata/app_text01.dx11.mvgl
+        sha256: 1979f2a9f5670c12d983cc32cec2ec506072db200bc546a79ba6cfa99d4a0d3e
+      - file: gamedata/patch_1.dx11.mvgl
+        sha256: ed669ac74131e00ecf354147ce9cccf9f6e299f049e0b6812adac46fb55d0808
+      - file: gamedata/patch_text01.dx11.mvgl
+        sha256: 9e974cd1d2f93ec8aca502fc26a2e63c25fde6e49c4ce774673a056b331dabc9
+
+  - name: "v0.10.0"
+    determinants:
+      - file: "gamedata/app_1_movie.dx11.cpk"
+        sha256: "6d25a16bf014613288a2689ddd8c14009239317dbf8386e866d1815f843f4cf7"
+      - file: "gamedata/app_text01.dx11.mvgl"
+        sha256: "2bb295d43f17b4044fe94ca45460d4f5def73914b59813a014ed8d681115bee9"
+      - file: "gamedata/patch_1.dx11.mvgl"
+        sha256: "01772e8a3242156a65d51ea0df80fc38f536b8a599a680a03c3e5b285ddda0fd"
+
