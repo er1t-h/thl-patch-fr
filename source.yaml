@@ -160,6 +160,7 @@ versions:
         sha256: 9e974cd1d2f93ec8aca502fc26a2e63c25fde6e49c4ce774673a056b331dabc9
 
   - name: "v0.10.0"
+    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.11.0/v0.10.0-to-v0.11.0.tar.xz"
     determinants:
       - file: "gamedata/app_1_movie.dx11.cpk"
         sha256: "6d25a16bf014613288a2689ddd8c14009239317dbf8386e866d1815f843f4cf7"
@@ -173,3 +174,20 @@ versions:
         sha256: "01772e8a3242156a65d51ea0df80fc38f536b8a599a680a03c3e5b285ddda0fd"
       - file: "gamedata/patch_steam_text01.dx11.mvgl"
         sha256: "01b61c5b7fb316af43b5dd334ce8e999ab8d797b9d8d5d96bbea307272abf9c6"
+
+  - name: "0.11.0"
+    determinants:
+      - file: "gamedata/app_1_movie.dx11.cpk"
+        sha256: "6d25a16bf014613288a2689ddd8c14009239317dbf8386e866d1815f843f4cf7"
+      - file: "gamedata/app_steam_1.dx11.mvgl"
+        sha256: "a8d1fc85e60fa9e12ad4dd45e05678bf5ce5e862f95b689def66d547866b6b64"
+      - file: "gamedata/app_steam_text01.dx11.mvgl"
+        sha256: "60687aa1c10fa565a7b9d8a9f404839c51b7fd2ffd0e18ec1f1987beb988b370"
+      - file: "gamedata/app_text01.dx11.mvgl"
+        sha256: "e3eee548d55f5c3d82f1be2bedc9f4be1b0a0af3c7519490c89e171c594854cd"
+      - file: "gamedata/patch_1.dx11.mvgl"
+        sha256: "97f63fc72392a65e7a428a59a87b7276f9fd1b206565f1493c4cfcd79f5e4f99"
+      - file: "gamedata/patch_steam_text01.dx11.mvgl"
+        sha256: "01b61c5b7fb316af43b5dd334ce8e999ab8d797b9d8d5d96bbea307272abf9c6"
+      - file: "gamedata/patch_text01.dx11.mvgl"
+        sha256: "891339d55528a4e517a2623c04cf0987583c6097b6cabb0c303f1b7e5a5aba02"
