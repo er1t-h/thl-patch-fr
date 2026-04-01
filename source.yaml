@@ -193,7 +193,7 @@ versions:
         sha256: "891339d55528a4e517a2623c04cf0987583c6097b6cabb0c303f1b7e5a5aba02"
 
   - name: "Jeu 1.2.0 | Non patché"
-    update_link: "http://localhost:8080/game-1-2-0-to-0-11-0.tar.xz"
+    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.11.0%2B1.2.0/game-1-2-0-to-0-11-0.tar.xz"
     determinants:
     - file: "gamedata/app_1_movie.dx11.cpk"
       sha256: "7c5e75fabd87c9c4aaa8ce395ca210ba097facf783f7f5c194229344e7a71819"
