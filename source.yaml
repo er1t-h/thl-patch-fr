@@ -247,7 +247,7 @@ versions:
       sha256: "97f63fc72392a65e7a428a59a87b7276f9fd1b206565f1493c4cfcd79f5e4f99"
 
   - name: "Jeu 1.2.2 | Non patché"
-    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.12.0%2B1.2.2/game-1-2-2-to-0-12-0.tar.xz"
+    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.12.0-REC-ADE%2B1.2.2/game-1-2-2-to-0-12-0.tar.xz"
     determinants:
     - file: "gamedata/app_1_movie.dx11.cpk"
       sha256: "7c5e75fabd87c9c4aaa8ce395ca210ba097facf783f7f5c194229344e7a71819"
@@ -264,7 +264,8 @@ versions:
     - file: "gamedata/patch_text01.dx11.mvgl"
       sha256: "74c8167c7eb2f8be663babad35c50cf6f30d04369073a50fbf10e6da80182d1c"
   
-  - name: "Jeu 1.2.2 | Patch 0.12.0"
+  - name: "Jeu 1.2.2 | Patch 0.12.0-REC-ADE"
+    update_link: "https://github.com/er1t-h/thl-patch-fr/releases/download/v0.12.0%2B1.2.2/v0.12.0-rec-ade-to-0.12.0.tar.xz"
     determinants:
     - file: "gamedata/app_1_movie.dx11.cpk"
       sha256: "6d25a16bf014613288a2689ddd8c14009239317dbf8386e866d1815f843f4cf7"
@@ -280,3 +281,18 @@ versions:
       sha256: "01b61c5b7fb316af43b5dd334ce8e999ab8d797b9d8d5d96bbea307272abf9c6"
     - file: "gamedata/patch_text01.dx11.mvgl"
       sha256: "fad86b74c7d0ec2fae725f35666cc27367202743aa35fd75e46f52b1817a6ac4"
+  
+  - name: "Jeu 1.2.2 | Patch 0.12.0"
+    determinants:
+    - file: "gamedata/app_steam_1.dx11.mvgl"
+      sha256: "a8d1fc85e60fa9e12ad4dd45e05678bf5ce5e862f95b689def66d547866b6b64"
+    - file: "gamedata/app_steam_text01.dx11.mvgl"
+      sha256: "60687aa1c10fa565a7b9d8a9f404839c51b7fd2ffd0e18ec1f1987beb988b370"
+    - file: "gamedata/app_text01.dx11.mvgl"
+      sha256: "5ba99d2a6c3ecd63163835958fbfe048fe3db759dcbe3160bace34db88d9ee85"
+    - file: "gamedata/patch_1.dx11.mvgl"
+      sha256: "9ead52b8bad03fa5e6b39202acec2c1da258c69b3ad7499e68d9a20882f40dfc"
+    - file: "gamedata/patch_steam_text01.dx11.mvgl"
+      sha256: "01b61c5b7fb316af43b5dd334ce8e999ab8d797b9d8d5d96bbea307272abf9c6"
+    - file: "gamedata/patch_text01.dx11.mvgl"
+      sha256: "410e2b94bda1fbc7d7781f085e086b9b35275a864a851b5d0042dacff2b77834"
